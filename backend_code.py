@@ -80,30 +80,30 @@ def restaurant_recommend(user_input_text,budget,location,cuisine_type):
     
 
 
-restaurant_recommend(user_input_text = 'Lassi and paratha',
-                     budget = 1000,
-                     location = 'Koramangala',
-                     cuisine_type= 'north indian')
+# restaurant_recommend(user_input_text = 'Lassi and paratha',
+#                      budget = 1000,
+#                      location = 'Koramangala',
+#                      cuisine_type= 'north indian')
 
 
-restaurant_recommend(user_input_text = 'good ambiance restaurants, serving fish',
-                     budget = None,
-                     location = 'Koramangala',
-                     cuisine_type= None)
+# restaurant_recommend(user_input_text = 'good ambiance restaurants, serving fish',
+#                      budget = None,
+#                      location = 'Koramangala',
+#                      cuisine_type= None)
 
-restaurant_recommend(user_input_text = 'must visit restaurants',
-                     budget = 1000,
-                     location = None,
-                     cuisine_type= 'north indian')
-
-
-restaurant_recommend(user_input_text = 'best cakes',
-                     budget = 1000,
-                     location = 'Koramangala',
-                     cuisine_type= None)
+# restaurant_recommend(user_input_text = 'must visit restaurants',
+#                      budget = 1000,
+#                      location = None,
+#                      cuisine_type= 'north indian')
 
 
-restaurant_recommend(user_input_text = 'authentic chicken biryani',
-                     budget = 800,
-                     location = 'BTM',
-                     cuisine_type= None)
+# restaurant_recommend(user_input_text = 'best cakes',
+#                      budget = 1000,
+#                      location = 'Koramangala',
+#                      cuisine_type= None)
+
+
+# restaurant_recommend(user_input_text = 'authentic chicken biryani',
+#                      budget = 800,
+#                      location = 'BTM',
+#                      cuisine_type= None)
